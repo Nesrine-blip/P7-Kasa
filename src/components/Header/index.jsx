@@ -3,8 +3,8 @@ import logo from '../../assets/logo.svg'
 
 // Tableau des liens de navigation
 const navLinks = [
-    { name: 'Accueil', path: '/' },
-    { name: 'À propos', path: '/about' }
+    { name: "Accueil", path: "/" },
+    { name: "À propos", path: "/about" }
 ]
 
 function Header() {
